@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Horiseon",
-        "image": "../public/images/horiseon.png",
+        "image": "../images/horiseon.png",
         "description": "This Horiseon Refactor was made to refactor the HTML and CSS and to improve the accesibility of the site",
         "url": "https://mikewd-dev.github.io/horiseon-refactor/"
     },
@@ -10,14 +10,14 @@
     {
         "id": 2,
         "name": "Portfolio",
-        "image": "../public/images/portfolio.png",
+        "image": "../images/portfolio.png",
         "description": "This is my first portfolio made using HTML and CSS.",
         "url": "https://mikewd-dev.github.io/portfolio-challenge/"
     },
     {
         "id": 3,
         "name": "Bootstap-Portfolio",
-        "image": "../public/images/Bootstrap-Portfolio.png",
+        "image": "../images/Bootstrap-Portfolio.png",
         "description": "This is my second portfolio. It was made using Bootstrap.",
         "url": "https://mikewd-dev.github.io/Bootstrap-Portfolio/"
     },
@@ -25,70 +25,70 @@
     {
         "id": 4,
         "name": "Product Preview Card",
-        "image": "../public/images/product-preview.png",
+        "image": "../images/product-preview.png",
         "description": "A front page for a product preview card which is responsive. I used HTML CSS and Bootstrap",
         "url":"https://mikewd-dev.github.io/product-preview-card-component-main/"
     },
     {
         "id": 5,
         "name": "Intro Section",
-        "image": "../public/images/intro-section.png",
+        "image": "../images/intro-section.png",
         "description": "The intro section or front page of a website with dropdown navigation. I used HTML CSS Bootstrap and JQuery",
         "url":"https://mikewd-dev.github.io/product-preview-card-component-main/"
     },
     {
         "id": 6,
         "name": "Interactive Card",
-        "image": "../public/images/interactive-card.png",
+        "image": "../images/interactive-card.png",
         "description": "The intro section or front page of a website with dropdown navigation. I used HTML CSS Bootstrap and JQuery",
         "url":"https://mikewd-dev.github.io/interactive-card-details-form/"
     },
     {
         "id": 7,
         "name": "Password Generator",
-        "image": "../public/images/password-generator.png",
+        "image": "../images/password-generator.png",
         "description": "This application I made creates a randomly generated password based on how the user responds to a series of prompts presented to the user.",
         "url": " https://mikewd-dev.github.io/password-generator/"
     },
     {
         "id": 8,
         "name": "Coding Quiz",
-        "image": "../public/images/coding-quiz.png",
+        "image": "../images/coding-quiz.png",
         "description": "This application I made is a coding quiz application which presents a series of multiple choice questions to the user and presents a final score at the end. There is also a list of highscores.",
         "url": " https://mikewd-dev.github.io/coding-quiz/"
     },
     {
         "id": 9,
         "name": "Daily Planner",
-        "image": "../public/images/daily-planner.png",
+        "image": "../images/daily-planner.png",
         "description": "This application is a daily planner. The planner is based on a 9-5 working day. Each section/hour is colour-coded depending on the time, i.eon colour for past times, another for the present time and another for future times. It uses local storage to make the data persistent",
         "url": "https://mikewd-dev.github.io/daily-planner-app/"
     },
     {
         "id": 10,
         "name": "Weather Dashboard",
-        "image": "../public/images/weather-dashboard.png",
+        "image": "../images/weather-dashboard.png",
         "description": "This application is a weather dashboard displaying current weather and also provides a 5 day forecast for different cities around the world using their latitude and longitude. The application uses the Openweather api.",
         "url": "https://mikewd-dev.github.io/weather-dashboard/"
     },
     {
         "id": 11,
         "name": "Restaurant Tracker",
-        "image": "../public/images/restaurant-tracker.png",
+        "image": "../images/restaurant-tracker.png",
         "description": "Restaurant Tracker is a web application that was done as a group project.  It provides the user a way to explore local restaurants particularly focusing on London with future plans to add other UK cities. The application integrates the Mapbox api to provide a dynamic and interactive map interface and uses Local Business Data API to gather restaurant informstion.",
         "url": "https://sidiq96.github.io/restaurant-tracker/"
     },
     {
         "id": 12,
         "name": "Readme Generator",
-        "image": "../public/images/readme-generator.png",
+        "image": "../images/readme-generator.png",
         "description": "This Readme generator was made using Inquirer.js . The app will automatically generate a professional readme based on the user's responses to a series of questions/prompts",
 "url":" https://mikewd-dev.github.io/readme-generator/"
     },
     {
         "id": 13,
         "name": "Product Finder",
-        "image": "../src/assets/images/product-finder.png",
+        "image": "../images/product-finder.png",
         "description": "Project Finder is a web application that was done as a group project. It provides the user a way to search for a better price online of an item by uploading a photo of the product. The application was built using React and also uses Google's Vision API to find similar images and Real Time Product Search Api to get product information",
         "url":"https://main--coolerproductfinder.netlify.app"
     },
@@ -96,14 +96,14 @@
     {
         "id": 14,
         "name": "Yelp Camp",
-        "image": "../public/images/yelpcamp.png",
+        "image": "../images/yelpcamp.png",
         "description": "Yelp Camp is a full stack application that allows the user to search for campsites within the United States, leave reviews and add new campgounds to the site. The application uses NodeJS, Express and MongoDB",
         "url":"https://yelpcamp-0di2.onrender.com"
     },
     {
         "id": 15,
         "name": "Product Feedback App",
-        "image": "../public/images/product-feedback.png",
+        "image": "../images/product-feedback.png",
         "description": "This is a full stack appplication where users can give suggestions or feedback on a product, comment on other users suggestions and reply to comments. The user can also upvote a suggestion. The application uses NodeJs, Express and MongoDB.",
         "url":"https://product-feedback-app-e45s.onrender.com/"
     }
