@@ -12,6 +12,7 @@ import Skills from "./components/Skills/Skills";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 
+
 function App() {
   return (
     <Router>

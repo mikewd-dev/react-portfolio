@@ -4,6 +4,7 @@ import "./Skills.css";
 
 function Skills(props) {
   return (
+
 <>
 
 <div className="skillscard">

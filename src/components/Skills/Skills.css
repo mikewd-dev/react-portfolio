@@ -1,12 +1,4 @@
-/* .Skills {
-display: flex;
-flex-direction: row;
-height: 200px;
-}
 
-.Skills > h1 {
-    float: left;
-} */
 
 .skillscard {
   display: inline-block;

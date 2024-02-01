@@ -92,7 +92,6 @@
         "description": "Project Finder is a web application that was done as a group project. It provides the user a way to search for a better price online of an item by uploading a photo of the product. The application was built using React and also uses Google's Vision API to find similar images and Real Time Product Search Api to get product information",
         "url":"https://main--coolerproductfinder.netlify.app"
     },
-
     {
         "id": 14,
         "name": "Yelp Camp",
