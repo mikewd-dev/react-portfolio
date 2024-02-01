@@ -1,18 +1,17 @@
-import Navbar from '../Navbar/Navbar';
-import About from '../About/About'
-import Image from '../Image/Image';
-import Projects from '../Projects/Projects'
+import React from "react";
+import Image from "../Image";
+import About from "../About/About";
+import "./Header.css";
 
-function Header(){
-return(
-<div>
-<Navbar/>
-<Image />
+
+function Header() {
+  return (
+    <div className="Header">
+      <Image />
 <About />
-<Projects />
-</div>
-
-)
+{/* <Navigation/> */}
+    </div>
+  );
 }
 
 export default Header;

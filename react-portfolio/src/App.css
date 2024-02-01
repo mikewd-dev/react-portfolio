@@ -3,3 +3,7 @@
   flex-wrap: wrap;
   justify-content: space-around; /* or space-between for equal spacing */
 }
+
+.WrapperTitle{
+float: left;
+}
