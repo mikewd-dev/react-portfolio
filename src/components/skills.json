@@ -22,7 +22,7 @@
     {
         "id": 5,
         "skill": "JQUERY",
-        "image": ".../images/jquery.png"
+        "image": "../images/jquery.png"
     },
     {
         "id": 6,

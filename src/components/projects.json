@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Horiseon",
-        "image": "../images/horiseon.png",
+        "image": "../images/Horiseon.png",
         "description": "This Horiseon Refactor was made to refactor the HTML and CSS and to improve the accesibility of the site",
         "url": "https://mikewd-dev.github.io/horiseon-refactor/"
     },
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Portfolio",
-        "image": "../images/portfolio.png",
+        "image": "../images/Portfolio.png",
         "description": "This is my first portfolio made using HTML and CSS.",
         "url": "https://mikewd-dev.github.io/portfolio-challenge/"
     },
