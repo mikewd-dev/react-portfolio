@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../Image";
+// import Image from "../Image";
 import About from "../About/About";
 import "./Header.css";
 
@@ -7,7 +7,7 @@ import "./Header.css";
 function Header() {
   return (
     <div className="Header">
-      <Image />
+      {/* <Image /> */}
 <About />
 {/* <Navigation/> */}
     </div>
