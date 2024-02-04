@@ -1,15 +1,15 @@
-.Header{
+.footer {
     padding-top: 50px;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
 position: relative;
-top:5px;
+top:30px;
 width: 80vw;
     padding: 20px;
+    justify-content: space-around;
     align-content: flex-start;
+    overflow: auto;
     /* box-shadow: 0 3px 6px #999, 0 3px 6px #999; */
 border-top:1px solid #ffff;
-color:#fff;
-}
-
+  }

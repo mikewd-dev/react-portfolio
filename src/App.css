@@ -5,5 +5,8 @@
 }
 
 .WrapperTitle{
-float: left;
+position: relative;
+top: 40px;
+color: #fff;
 }
+

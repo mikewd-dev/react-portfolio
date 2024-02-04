@@ -3,13 +3,13 @@ import React from "react";
 import About from "../About/About";
 import "./Header.css";
 
-
 function Header() {
   return (
     <div className="Header">
+
       {/* <Image /> */}
-<About />
-{/* <Navigation/> */}
+      <About />
+      {/* <Navigation/> */}
     </div>
   );
 }

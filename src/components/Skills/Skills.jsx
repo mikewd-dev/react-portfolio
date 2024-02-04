@@ -10,14 +10,15 @@ function Skills(props) {
 <div className="skillscard">
       <div className="img-container">
         <img alt={props.name} src={props.image} />
+<p>{props.name}</p>
       </div>
       <div className="content">
 
-        {/* <ul>
+        <ul>
           <li className="skill-name">
             {props.skill}
           </li>
-        </ul> */}
+        </ul>
       </div>
     </div>
 </>

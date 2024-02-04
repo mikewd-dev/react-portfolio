@@ -2,18 +2,11 @@
 
 .skillscard {
   display: inline-block;
-  /* background-color: rgb(2, 0, 36);
-  background: radial-gradient(
-    circle,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(9, 102, 121, 0.528470763305322) 35%,
-    rgba(0, 212, 255, 1) 100%
-  ); */
-
-  margin: 1rem;
+  margin: 0 1.5rem 0.5rem 1.5rem;
   position: relative;
+  color: beige;
+text-align: center;
 
-  text-align: left;
 }
 
 /* .skillscard > .img-container {
@@ -30,4 +23,14 @@
 
 .WrapperSkills {
   justify-content: center;
+}
+
+.skill-name {
+list-style-type: none;
+text-align: center;
+}
+
+.content > ul{
+  padding: 0;
+
 }

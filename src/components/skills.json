@@ -2,41 +2,49 @@
     {
         "id": 1,
         "skill": "HTML",
-        "image": "../images/html5.png"
+        "image": "../images/html5.png",
+"name": "HTML"
     },
     {
         "id": 2,
         "skill": "CSS",
-        "image": "../images/css.png"
+        "image": "../images/css.png",
+        "name": "CSS"
     },
     {
         "id": 3,
         "skill": "BOOTSTRAP",
-        "image": "../images/bootstrap.png"
+        "image": "../images/bootstrap.png",
+        "name": "BOOTSTRAP"
     },
     {
         "id": 4,
         "skill": "JAVASCRIPT",
-        "image": "../images/js.png"
+        "image": "../images/js.png",
+        "name": "JAVASCRIPT"
     },
     {
         "id": 5,
         "skill": "JQUERY",
-        "image": "../images/jquery.png"
+        "image": "../images/jquery.png",
+        "name": "JQUERY"
     },
     {
         "id": 6,
         "skill": "REACT",
-        "image": "../images/react.png"
+        "image": "../images/react.png",
+        "name": "REACT"
     },
     {
         "id": 7,
         "skill": "MongoDB",
-        "image": " ../images/mongodb.png"
+        "image": " ../images/mongodb.png",
+        "name": "MONGODB"
     },
     {
         "id": 8,
         "skill": "NodeJS",
-        "image": "../images/nodejs.png"
+        "image": "../images/nodejs.png",
+        "name": "NODEJS"
     }
 ]

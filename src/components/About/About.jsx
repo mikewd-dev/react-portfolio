@@ -1,15 +1,21 @@
 // import Header from "../Header/Header";
-import "./About.css"
+import "./About.css";
 
-function About (){
-return (
-<div>
-
-<p className="about-me">
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore aliquid aperiam animi, porro odio amet? Ratione, ducimus, atque eaque cumque at possimus, aperiam repellendus ea deleniti nulla itaque. Quibusdam, voluptates?
-</p>
-</div>
-)
+function About() {
+  return (
+    <div className="about-me">
+ <h1>mikewd-dev</h1>
+      <h2>
+        Nice to meet you!
+        <br />
+        I'm Michael Dawson
+      </h2>
+      <p>
+        I am frontend developer based in the UK with a passion for building web
+        applications
+      </p>
+    </div>
+  );
 }
 
 export default About;
