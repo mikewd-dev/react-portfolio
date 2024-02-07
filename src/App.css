@@ -1,0 +1,12 @@
+.container-for-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; /* or space-between for equal spacing */
+}
+
+.WrapperTitle{
+position: absolute;
+top: 400px;
+color: #fff;
+}
+

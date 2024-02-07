@@ -1,0 +1,35 @@
+
+
+.skillscard {
+  display: inline-block;
+  margin: 0 1.5rem 0.5rem 1.5rem;
+  position: relative;
+  color: beige;
+
+}
+
+/* .skillscard > .img-container {
+
+      } */
+.skillscard > .img-container > img {
+  width: 50px;
+  height: 50px;
+}
+
+.WrapperTitle {
+  justify-content: flex-end;
+}
+
+.WrapperSkills {
+  justify-content: center;
+}
+
+.skill-name {
+list-style-type: none;
+text-align: center;
+}
+
+.content > ul{
+  padding: 0;
+
+}
