@@ -1,10 +1,16 @@
 .about-me {
-    display: flex;
-flex-direction: column;
-position: relative;
-top: 10px;
-left: 0;
-bottom: 25px;
-justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 10px;
+  left: 0;
+  bottom: 25px;
+  justify-content: space-between;
 }
 
+@media only screen and (min-width: 350px) {
+  .about-me {
+    top: 43px;
+    font-size: small;
+  }
+}

@@ -1,15 +1,23 @@
 .footer {
-    padding-top: 50px;
-    height: 100%;
-    display: flex;
-    flex-flow: row wrap;
-position: relative;
-top:30px;
-width: 80vw;
-    padding: 20px;
+  padding-top: 50px;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+  top: 30px;
+  width: 80vw;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  border-top: 1px solid #ffff;
+}
+
+@media only screen and (min-width: 350px) {
+  .footer {
+    padding-top: 15px;
     justify-content: space-around;
-    align-content: flex-start;
-    overflow: auto;
-    /* box-shadow: 0 3px 6px #999, 0 3px 6px #999; */
-border-top:1px solid #ffff;
+    align-items: center;
+    width: 100vw;
   }
+}

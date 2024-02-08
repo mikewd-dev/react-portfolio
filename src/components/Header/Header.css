@@ -8,3 +8,10 @@
   align-content: flex-start;
   color: #fff;
 }
+
+@media only screen and (min-width: 350px) {
+  .Header {
+    width: 60vw;
+    padding: 5px;
+  }
+}

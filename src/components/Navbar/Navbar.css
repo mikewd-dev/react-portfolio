@@ -1,4 +1,35 @@
 .nav-link {
-color: #fff !important;
-font-size: x-large !important;
+  color: #fff !important;
+  font-size: x-large !important;
+}
+.navbar {
+  align-items: start;
+  justify-content: flex-end;
+  margin-right: 15px;
+}
+
+@media only screen and (min-width: 350px) and (max-width: 993px) {
+  .navbar {
+    position: fixed !important;
+    margin-top: 0;
+    right: 0;
+    left: auto;
+  }
+
+  .nav-link {
+    font-size: small !important;
+  }
+
+  .navbar > .container {
+    justify-content: flex-end !important;
+  }
+
+  .navbar-nav {
+    max-width: fit-content;
+    padding-right: 20px;
+  }
+
+  .navbar-toggler-icon {
+    text-align: center;
+  }
 }

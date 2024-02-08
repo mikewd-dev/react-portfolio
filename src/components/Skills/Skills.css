@@ -1,11 +1,8 @@
-
-
 .skillscard {
   display: inline-block;
   margin: 0 1.5rem 0.5rem 1.5rem;
   position: relative;
   color: beige;
-
 }
 
 /* .skillscard > .img-container {
@@ -25,11 +22,16 @@
 }
 
 .skill-name {
-list-style-type: none;
-text-align: center;
+  list-style-type: none;
+  text-align: center;
 }
 
-.content > ul{
+.content > ul {
   padding: 0;
+}
 
+@media only screen and (min-width: 350px) {
+  .skill-name {
+    font-size: small;
+  }
 }
