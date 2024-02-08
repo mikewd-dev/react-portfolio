@@ -10,10 +10,11 @@
 
 @media only screen and (min-width: 350px) and (max-width: 993px) {
   .navbar {
-    position: fixed !important;
+    position: absolute !important;
     margin-top: 0;
     right: 0;
     left: auto;
+
   }
 
   .nav-link {
