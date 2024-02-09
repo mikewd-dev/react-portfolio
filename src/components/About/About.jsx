@@ -1,10 +1,11 @@
-// import Header from "../Header/Header";
+import Image from "../Image";
+
 import "./About.css";
 
 function About() {
   return (
     <div id="about" className="about-me">
-      <h1>mikewd-dev</h1>
+      <Image />
       <h2>
         Nice to meet you!
         <br />
@@ -12,7 +13,7 @@ function About() {
       </h2>
       <p>
         I am frontend developer based in the UK with a passion for building web
-        applications
+        applications.
       </p>
     </div>
   );

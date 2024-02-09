@@ -9,7 +9,7 @@ function Contact() {
   return (
 <Container fluid>
     <div id="contact" className="Contact">
-<h2>mikewd-dev</h2>
+<h2>michaeldawson</h2>
       <div className="social">
 
         <a className = "links" href="https://github.com/mikewd-dev">

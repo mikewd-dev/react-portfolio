@@ -24,9 +24,8 @@ function App() {
               path="/"
               element={
                 <>
-
                   <Header />
-                  <Navigation/>
+                  <Navigation />
                   <Article>
                     {/* <h1 className="WrapperSkills">Skills</h1> */}
                     {skillsData.map((skill) => (
@@ -39,7 +38,6 @@ function App() {
                   </Article>
                   <h1 className="WrapperTitle">My Projects</h1>
                   <Wrapper>
-
                     {projectsData.map((project) => (
                       <Projects
                         key={project.id}
