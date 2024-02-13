@@ -45,6 +45,7 @@ function App() {
                         image={project.image}
                         description={project.description}
                         url={project.url}
+                        source={project.source}
                       />
                     ))}
                   </Wrapper>
