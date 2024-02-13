@@ -55,3 +55,9 @@
   font-weight: var(--font-weight);
   overflow: hidden;
 }
+
+.buttonLinks{
+  display: flex;
+}
+
+

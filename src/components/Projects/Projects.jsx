@@ -14,7 +14,7 @@ function Projects(props) {
             <li className="project-description">{props.description}</li>
           </ul>
         </div>
-        <div className="buttonLinks d-flex">
+        <div className="buttonLinks">
           <a
             className="btn btn-primary ms-3 me-auto px-5"
             href={props.url}
