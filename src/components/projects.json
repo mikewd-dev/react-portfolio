@@ -9,6 +9,15 @@
     },
     {
         "id": 2,
+        "name": "My Portfolio",
+        "image": "../images/react-portfolio.png",
+        "description": "This is my portfolio with the projects I have done. It displays them in grid format and each card has two buttons, one for a link to the individual application and one for the github repository",
+        "url": "https://main--mikewd-dev-portfolio.netlify.app/",
+        "source": "https:///github.com/mikewd-dev/react-portfolio/"
+    },
+
+    {
+        "id": 3,
         "name": "Restaurant Tracker",
         "image": "../images/restaurant-tracker.png",
         "description": "This is web application that provides the user a way to explore restaurants in London with future plans to add other UK cities. It integrates the Mapbox api to provide a dynamic and interactive map interface and uses Local Business Data API to gather restaurant informstion.",
@@ -16,7 +25,7 @@
         "source": "https://github.com/Sidiq96/restaurant-tracker/"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Product Feedback App",
         "image": "../images/product-feedback.png",
         "description": "This is a full stack appplication where users can give suggestions or feedback on a product, comment on other users suggestions and reply to comments. The user can also upvote a suggestion. The application uses NodeJs, Express and MongoDB and Cloudinary API .",
@@ -24,7 +33,7 @@
         "source": "https://github.com/mikewd-dev/product-feedback-app"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Yelp Camp",
         "image": "../images/yelpcamp.png",
         "description": "Yelp Camp is a full stack application that allows the user to search for campsites within the United States, leave reviews and add new campgounds to the site. The application uses NodeJS, Express and MongoDB",
@@ -33,7 +42,7 @@
     },
 
     {
-        "id": 5,
+        "id": 6,
         "name": "Weather Dashboard",
         "image": "../images/weather-dashboard.png",
         "description": "This application is a weather dashboard displaying current weather and also provides a 5 day forecast for different cities around the world using their latitude and longitude. The application uses the Openweather api.",
@@ -41,7 +50,7 @@
         "source": "https://github.com/mikewd-dev/weather-dashboard/"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Password Generator",
         "image": "../images/password-generator.png",
         "description": "This application I made creates a randomly generated password based on how the user responds to a series of prompts presented to the user.",
@@ -49,7 +58,7 @@
         "source": "https://github.com/mikewd-dev/password-generator/"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Coding Quiz",
         "image": "../images/coding-quiz.png",
         "description": "This application I made is a coding quiz application which presents a series of multiple choice questions to the user and presents a final score at the end. There is also a list of highscores.",
@@ -57,7 +66,7 @@
         "source": "https://github.com/mikewd-dev/coding-quiz/"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Daily Planner",
         "image": "../images/daily-planner.png",
         "description": "This application is a daily planner. The planner is based on a 9-5 working day. Each section/hour is colour-coded depending on the time, i.eon colour for past times, another for the present time and another for future times. It uses local storage to make the data persistent",
@@ -66,7 +75,7 @@
     },
 
     {
-        "id": 9,
+        "id": 10,
         "name": "Readme Generator",
         "image": "../images/readme-generator.png",
         "description": "This Readme generator was made using Inquirer.js . The app will automatically generate a professional readme based on the user's responses to a series of questions/prompts",
@@ -75,7 +84,7 @@
     },
 
     {
-        "id": 10,
+        "id": 11,
         "name": "Interactive Card",
         "image": "../images/interactive-card.png",
         "description": "The intro section or front page of a website with dropdown navigation. I used HTML CSS Bootstrap and JQuery",
@@ -83,7 +92,7 @@
         "source": "https://github.com/mikewd-dev/interactive-card-details-form/tree/master/"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Product Preview Card",
         "image": "../images/product-preview.png",
         "description": "A front page for a product preview card which is responsive. I used HTML CSS and Bootstrap",
@@ -91,7 +100,7 @@
         "source": "https://github.com/mikewd-dev/product-preview-card-component-main"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Intro Section",
         "image": "../images/intro-section.png",
         "description": "The intro section or front page of a website with dropdown navigation. I used HTML CSS Bootstrap and JQuery",
