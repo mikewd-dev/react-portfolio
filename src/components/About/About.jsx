@@ -12,8 +12,7 @@ function About() {
         I'm Michael Dawson
       </h2>
       <p>
-        I am frontend developer based in the UK with a passion for building web
-        applications.
+        👋 Hi, I’m Michael Dawson — a frontend developer based in the UK who enjoys building fast, accessible web apps. I’ve built full-stack projects using JavaScript, React, and Node.js, and recently completed a remote internship where I contributed production-ready features using Next.js, Prisma, and Stripe. I focus on clean UI, responsiveness, and real-world problem solving.
       </p>
     </div>
   );
