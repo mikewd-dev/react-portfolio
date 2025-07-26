@@ -29,7 +29,7 @@
         "name": "Product Feedback App",
         "image": "../images/product-feedback.png",
         "description": "This is a full stack appplication where users can give suggestions or feedback on a product, comment on other users suggestions and reply to comments. The user can also upvote a suggestion. The application uses NodeJs, Express and MongoDB and Cloudinary API .",
-        "url": "https://product-feedback-app-e45s.onrender.com/",
+        "url": "https://product-feedback-app-production.up.railway.app/",
         "source": "https://github.com/mikewd-dev/product-feedback-app"
     },
     {
