@@ -21,7 +21,7 @@
         "name": "Restaurant Tracker",
         "image": "../images/restaurant-tracker.png",
         "description": "This is web application that provides the user a way to explore restaurants in London with future plans to add other UK cities. It integrates the Mapbox api to provide a dynamic and interactive map interface and uses Local Business Data API to gather restaurant informstion.",
-        "url": "https://sidiq96.github.io/restaurant-tracker/",
+        "url": "https://mikewd-dev.github.io/restaurant-tracker/",
         "source": "https://github.com/Sidiq96/restaurant-tracker/"
     },
     {
