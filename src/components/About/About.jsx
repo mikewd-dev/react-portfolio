@@ -5,7 +5,7 @@ import "./About.css";
 function About() {
   return (
     <div id="about" className="about-me">
-      <Image />
+      <Image className="profile-image"/>
       <h2>
         Nice to meet you!
         <br />

@@ -9,8 +9,8 @@
 .WrapperTitle {
   text-align: center;
   top: 400px;
-  color: #fff;
-}
+  color: #010101;
+
 
 @media only screen and (min-width: 350px) {
   .container-for-cards {
