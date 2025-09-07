@@ -43,6 +43,8 @@ function App() {
                         key={project.id}
                         name={project.name}
                         image={project.image}
+                        techTitle={project.techTitle}
+                        tech={project.tech}
                         description={project.description}
                         url={project.url}
                         source={project.source}

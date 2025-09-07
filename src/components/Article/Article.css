@@ -4,16 +4,15 @@
   display: flex;
   flex-flow: row wrap;
   position: relative;
+  margin: 0 auto 20px;
   top: 30px;
-  width: 80vw;
+  width: 100vw;
   padding: 20px;
-  justify-content: space-around;
-  align-content: flex-start;
-  overflow: auto;
+  justify-content: center;
+  align-content: center;
   border-top: 1px solid #ffff;
-}
 
-@media only screen and (min-width: 350px) {
+@media only screen and (max-width: 600px) {
   .footer {
     padding-top: 15px;
     justify-content: space-around;

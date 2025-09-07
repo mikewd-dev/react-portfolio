@@ -3,7 +3,9 @@
         "id": 1,
         "name": "Product Finder",
         "image": "../images/product-finder.png",
-        "description": "Project Finder is a web application that was done as a group project. It provides the user a way to search for a better price online of an item by uploading a photo of the product. The application was built using React and also uses Google's Vision API to find similar images and Real Time Product Search Api to get product information",
+        "techTitle": "Technologies Used:",
+        "tech": "React, Google Vision API, Real Time Product Search API",
+        "description": "Product Finder is a web application that was done as a group project. It provides the user a way to search for a better price online of an item by uploading a photo of the product. I thought that it would be excellenf to implement an AI feature hence we chose to use Google's Vision API to find similar images and Real Time Product Search Api to get product information. This project really helped me to understand agile development and how different ideas can be implemented to bring an idea to life", 
         "url": "https://main--coolerproductfinder.netlify.app",
         "source": "https://github.com/aliochinMax/product-finder/"
     },
@@ -11,6 +13,8 @@
         "id": 2,
         "name": "Restaurant Tracker",
         "image": "../images/restaurant-tracker.png",
+        "techTitle": "Technologies Used:",
+        "tech": "React, Mapbox API, Local Business Data API",
         "description": "This is web application that provides the user a way to explore restaurants in London with future plans to add other UK cities. It integrates the Mapbox api to provide a dynamic and interactive map interface and uses Local Business Data API to gather restaurant informstion.",
         "url": "https://mikewd-dev.github.io/restaurant-tracker/",
         "source": "https://github.com/mikewd-dev/restaurant-tracker/tree/case-study"
@@ -19,6 +23,8 @@
         "id": 3,
         "name": "Product Feedback App",
         "image": "../images/product-feedback.png",
+        "techTitle": "Technologies Used:",
+        "tech": "NodeJs, Express, MongoDB, Cloudinary API",
         "description": "This is a full stack appplication where users can give suggestions or feedback on a product, comment on other users suggestions and reply to comments. The user can also upvote a suggestion. The application uses NodeJs, Express and MongoDB and Cloudinary API .",
         "url": "https://product-feedback-app-production.up.railway.app/",
         "source": "https://github.com/mikewd-dev/product-feedback-app"

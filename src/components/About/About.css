@@ -22,6 +22,7 @@
 @media only screen and (max-width:600px) {
   .about-me {
     top: 54px;
-    font-size: small;
+    font-size: medium;
+    margin-bottom: 20px;
   }
 }

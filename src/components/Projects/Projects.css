@@ -11,7 +11,7 @@
   display: inline-block;
   background: #fff;
   border-radius: 2px;
-  height: 500px !important;
+  height: auto !important;
   margin: 1rem;
   position: relative;
   width: 325px;
@@ -48,12 +48,24 @@
   font-family: "Open Sans", sans-serif;
   font-weight: var(--font-weight);
 }
+.project-tech-title{
+  color: var(--color);
+  font-family: "Titillium Web", sans-serif;
+  font-weight: var(--font-weight);
+  text-decoration:underline;
+}
 
 .project-description {
   color: var(--color);
   font-family: "Titillium Web", sans-serif;
   font-weight: var(--font-weight);
   overflow: hidden;
+}
+.project-tech {
+  color: var(--color);
+  font-family: "Titillium Web", sans-serif;
+  font-weight: var(--font-weight);
+  overflow: hidden
 }
 
 .buttonLinks{
@@ -64,5 +76,6 @@
 @media screen and (max-width: 600px){
   .card {
     margin: 0 auto 20px;
+    height: auto !important;
   }
 }

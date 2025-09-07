@@ -11,7 +11,10 @@ function Projects(props) {
         <div className="content">
           <ul>
             <li className="project-name">{props.name}</li>
+            <li className="project-tech-title">{props.techTitle}</li>
+            <li className="project-tech">{props.tech}</li>
             <li className="project-description">{props.description}</li>
+            
           </ul>
         </div>
         <div className="buttonLinks">
