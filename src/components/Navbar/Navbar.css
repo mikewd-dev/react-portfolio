@@ -35,13 +35,11 @@
 
   .navbar > .container {
     justify-content: flex-end !important;
-    
   }
 
   .navbar-nav {
     max-width: fit-content;
     padding-right: 0;
-    
   }
 
   .navbar-toggler-icon {
