@@ -24,8 +24,9 @@ function App() {
               path="/"
               element={
                 <>
-                  <Header />
                   <Navigation />
+                  <Header />
+                  
                   <Article>
                     {/* <h1 className="WrapperSkills">Skills</h1> */}
                     {skillsData.map((skill) => (
