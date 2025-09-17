@@ -3,18 +3,30 @@
   font-size: x-large !important;
 }
 .navbar {
-  align-items: start;
-  justify-content: flex-end;
-  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 20px;
 }
 
-@media only screen and (min-width: 350px) and (max-width: 993px) {
+@media only screen and (max-width: 768px) {
   .navbar {
     position: absolute !important;
     margin-top: 0;
     right: 0;
     left: auto;
+    top: 0;
+  }
+}
 
+@media only screen and (max-width: 600px) {
+  .navbar {
+    position: absolute !important;
+    margin-top: 0;
+    right: 0;
+    left: auto;
+    top: 0;
   }
 
   .nav-link {
@@ -27,7 +39,7 @@
 
   .navbar-nav {
     max-width: fit-content;
-    padding-right: 20px;
+    padding-right: 0;
   }
 
   .navbar-toggler-icon {
