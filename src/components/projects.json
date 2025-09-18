@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Product Finder",
     "image": "../images/product-finder.png",
-    "description": "Project Finder is a web application that was done as a group project. It provides users a way to search for a better price online of an item by uploading a photo of the product. The application was built using React and also uses Google's Vision API to find similar images and Real Time Product Search API to get product information.",
+    "description": "Product Finder is a group project web application that allows users to upload a product photo and search for better prices online. The application was built using React and uses Google's Vision API to find similar images and the Real-Time Product Search API to get product information. My contributions: Integrated the Google Vision API and Real-Time Product Search API from RapidAPI, implemented support for PNG and SVG formats and conversion of Apple HEIC files to JPEG, and improved the responsive design for seamless use across desktop, tablet, and mobile devices.",
     "url": "https://main--coolerproductfinder.netlify.app",
     "source": "https://github.com/aliochinMax/product-finder/"
   },
