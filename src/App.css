@@ -1,28 +1,42 @@
 
 .container-for-cards {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: flex-start;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100vw;
 }
 
 .WrapperTitle {
+  position: relative;
+  margin: 0 auto;
   text-align: center;
-  top: 400px;
+  top: 0px;
   color: #010101;
+}
 
-
-@media only screen and (min-width: 350px) {
+@media screen and (max-width: 600px) {
   .container-for-cards {
     justify-content: flex-start;
+    width: 100vw;
   }
 
+  .footer{
+    margin-bottom: 26pc;
+  }
+  .navbar > .container {
+    justify-content: flex-end !important;
+    
+  }
   .WrapperTitle {
-    border-top: 1px solid #fff;
-    margin-left: auto;
-    margin-right: auto;
+    border-top: 1px solid #ffff;
+    text-align: center;
+    margin: 0 auto !important;
     font-size: 30px;
-    width: 100vw;
-    padding-top: 20px;
+    left: 0;
+    right: 0;
+    position: relative !important;
+    top: 20px;
   }
 }
