@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Product Finder",
     "image": "../images/product-finder.png",
-    "description": "Product Finder is a group project web application that allows users to upload a product photo and search for better prices online. The application was built using React and uses Google's Vision API to find similar images and the Real-Time Product Search API to get product information. My contributions: Integrated the Google Vision API and Real-Time Product Search API from RapidAPI, implemented support for PNG and SVG formats and conversion of Apple HEIC files to JPEG, and improved the responsive design for seamless use across desktop, tablet, and mobile devices.",
-    "url": "https://main--coolerproductfinder.netlify.app",
-    "source": "https://github.com/aliochinMax/product-finder/"
+    "description": "Product Finder is a web application that allows users to search for better online prices of a product by uploading an image. The app uses Google Vision API to identify visually similar items and a Real-Time Product Search API to retrieve live product data and pricing. The frontend was built with React.\nThe project originally began as a group capstone project during a Frontend Developer Bootcamp. My initial contributions included implementing image upload support for multiple formats (PNG, SVG, and HEIC using heic2any), integrating the Google Vision API, and connecting the Real-Time Product Search API to return live results. \nI later forked the project and took full ownership to improve security, performance, and deployment. API keys were previously exposed on the client, so I refactored the architecture and implemented a serverless deployment using Netlify Functions to securely handle API requests. I also added more robust error handling, improved responsiveness across devices, refined the UI/UX, and worked on improving result accuracy from the Vision API.\nThe application is now fully deployed serverlessly on Netlify, with secure API handling and a more polished, responsive user experience. \nFuture improvements include further enhancing mobile responsiveness and improving image recognition accuracy, which would likely require training custom models for cases where Google Vision does not return reliable labels.",
+    "url": "https://betterprice.netlify.app",
+    "source": "https://github.com/mikewd-dev/product-finder/"
   },
   {
     "id": 2,
