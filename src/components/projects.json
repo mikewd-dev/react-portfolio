@@ -20,7 +20,7 @@
     "name": "Product Feedback App",
     "image": "../images/product-feedback.png",
     "description": "Product Feedback App is a full-stack application that allows users to submit product suggestions, comment on others’ suggestions, reply to comments, and upvote ideas. The app is built with Node.js, Express, MongoDB, and the Cloudinary API, with a login and registration system to manage user authentication.\nThe project began as a Frontend Mentor Guru-level challenge, which originally used static JSON data. My contributions included replacing the JSON with a MongoDB database for scalability, implementing user authentication, and integrating Cloudinary for media handling. I also improved data relationships to support comments and replies in a structured way, ensuring a seamless user experience.\nThe application is now fully functional with persistent data storage, secure user authentication, and dynamic interaction between users. Future improvements could include adding real-time updates with WebSockets, enhanced analytics for user suggestions, and improved UI/UX for better accessibility across devices.",
-    "url": "https://product-feedback-mikewd.netlify.app",
+    "url": "https://product-feedback-app-production.up.railway.app/",
     "source": "https://github.com/mikewd-dev/product-feedback-app"
   }
 ]
